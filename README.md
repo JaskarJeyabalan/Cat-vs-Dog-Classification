@@ -37,7 +37,5 @@ The dataset contains labeled RGB images of cats and dogs organized into training
 
 ```text
 .
-├── dataset/
-│   ├── dogs-vs-cats.zip
 ├── Cat_vs_Dog_Classification.ipynb  # Main Jupyter notebook containing the full pipeline
 └── README.md                        # Technical project documentation
